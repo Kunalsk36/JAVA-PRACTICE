@@ -1,3 +1,5 @@
+// Program using arithmetic operators
+
 import java.util.Scanner;
 
 public class ArithmeticOperators {
@@ -22,7 +24,7 @@ public class ArithmeticOperators {
 
     public static double mod(double num1, double num2){
         return num1%num2;
-    } 
+    }   
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter first num:");

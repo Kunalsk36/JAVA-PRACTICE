@@ -1,3 +1,5 @@
+// Swap two numbers without using third variable
+
 import java.util.Scanner;
 
 public class SwapNums {
